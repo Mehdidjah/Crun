@@ -1,5 +1,4 @@
-#!/bin/bash
-# Enhanced test script for c
+
 
 C="./c"
 PASS=0
